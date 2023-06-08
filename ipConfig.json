@@ -1,0 +1,26 @@
+{
+  "ads":"true",
+  "update":[{
+    "version":"2.8.2000",
+    "title":"",
+    "description":"",
+    "size":""
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Secaucus","country":"United States","image":"germany","ip":"5.188.0.37","active":"true","signal":"a","vip":false},
+    {"id":1, "file":0, "city":"Minneapolis","country":"United States","image":"luxemburg","ip":"92.223.102.46","active":"true","signal":"b","vip":false},
+    {"id":2, "file":0, "city":"Los Angeles","country":"United States","image":"germany","ip":"109.166.39.168","active":"true","signal":"a","vip":true},
+    {"id":3, "file":0, "city":"Singapore","country":"Singapore","image":"luxemburg","ip":"5.180.78.244","active":"true","signal":"b","vip":true},
+    {"id":4, "file":0, "city":"London","country":"United Kingdom","image":"germany","ip":"5.183.102.32","active":"true","signal":"a","vip":true},
+    {"id":5, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"185.14.45.195","active":"true","signal":"b","vip":true}
+  ]
+}
