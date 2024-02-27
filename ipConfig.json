@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Dallas","country":"United States","image":"germany","ip":"5.188.0.37","active":"true","signal":"a","vip":false},
+    {"id":0, "file":0, "city":"PHX","country":"United States","image":"germany","ip":"23.158.200.128","active":"true","signal":"a","vip":false},
     {"id":1, "file":0, "city":"Ashburn","country":"United States","image":"germany","ip":"5.188.0.37","active":"true","signal":"a","vip":false},
     {"id":2, "file":0, "city":"Los Angeles","country":"United States","image":"luxemburg","ip":"92.223.102.46","active":"true","signal":"b","vip":false},
     {"id":3, "file":0, "city":"Miami","country":"United States","image":"luxemburg","ip":"92.223.102.46","active":"true","signal":"b","vip":false},
